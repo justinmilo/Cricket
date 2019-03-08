@@ -1,3 +1,3 @@
 # Cricket
 
-Cricket is functional swift implementation of a 2D pipline for Apple's SpriteKit framekwork that has been inspired, in part, by Grasshopper for Rhino.
+Cricket is functional swift implementation of a 2D pipline similar to Grasshopper for Rhino. Cricket is made for Apple's SpriteKit framekwork.
